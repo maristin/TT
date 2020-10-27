@@ -284,7 +284,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114803030738577818, guid: ed022c6eaaa372f498c83d69665e2adc, type: 3}
       propertyPath: m_Text
-      value: 'Iniciar '
+      value: Start
       objectReference: {fileID: 0}
     - target: {fileID: 114826242186275584, guid: ed022c6eaaa372f498c83d69665e2adc, type: 3}
       propertyPath: m_Text
